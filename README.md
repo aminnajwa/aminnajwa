@@ -1,5 +1,4 @@
 import math
-
 # Store last 3 results
 prev_results = [None, None, None]
 
