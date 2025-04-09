@@ -1,6 +1,7 @@
 %smartcalculator
+
 import math
-# Store last 3 results
+#Store last 3 results
 prev_results = [None, None, None]
 
 def update_results(new_result):
